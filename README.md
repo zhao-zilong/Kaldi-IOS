@@ -1,2 +1,3 @@
 # Kaldi-IOS
-Some directions to use Kaldi in IOS
+Some suggestions to use Kaldi on IOS and Unity
+
